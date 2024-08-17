@@ -1,22 +1,22 @@
 ATTACCO;SQUADRA;PG;MV;MFV;GOL;ASSIST;COSTO 2023
-Martinez;Inter;33;6,65;8,73;24;2;
+Martinez;Inter;33;6,65;8,73;24;2;403
 Dybala;Roma;27;6,48;8,2;13;9;220
 Scamacca;Atalanta;28;6,41;7,89;12;6;171
-Osimhen;Napoli;25;6,36;7,88;15;2;
+Osimhen;Napoli;25;6,36;7,88;15;2;410
 Thuram;Inter;35;6,54;7,81;13;7;
 Giroud;Milan;34;6,26;7,71;15;8;55
-Lookman;Atalanta;30;6,37;7,63;11;7;
+Lookman;Atalanta;30;6,37;7,63;11;7;102
 Vlahovic;Juventus;33;6,18;7,42;16;3;370
-Leao;Milan;33;6,39;7,41;9;9;
-Gonzalez;Fiorentina;29;6,31;7,4;12;2;
-Zirkzee;Bologna;34;6,43;7,4;11;4;
+Leao;Milan;33;6,39;7,41;9;9;300
+Gonzalez;Fiorentina;29;6,31;7,4;12;2;45
+Zirkzee;Bologna;34;6,43;7,4;11;4;41
 Zapata;Torino;37;6,26;7,36;13;3;
 Kvara;Napoli;34;6,25;7,25;11;5;
 Lukaku;Roma;32;6,09;7,2;13;3;113
 Chiesa;Juventus;32;6,28;7,17;9;2;160
 Belotti;Fiorentina;24;6,21;7,1;6;4;51
 Soule;Frosinone;36;6,29;7,07;11;2;
-Okafor;Milan;24;6,21;7,02;6;2;
+Okafor;Milan;24;6,21;7,02;6;2;1
 Arnautovic;Inter;24;6,15;6,9;5;3;
 Ngonge;Napoli;28;6,14;6,86;7;2;80
 Thauvin;Udinese;25;6,2;6,84;5;3;15
@@ -24,10 +24,10 @@ Retegui;Genoa;29;6,09;6,79;7;2;
 Cheddira;Frosinone;31;6,05;6,76;7;1;
 Luvumbo;Cagliari;30;6,27;6,75;4;5;
 Lucca;Udinese;34;6,04;6,75;8;3;
-Pinamonti;Sassuolo;37;5,92;6,7;11;1;
+Pinamonti;Sassuolo;37;5,92;6,7;11;1;20
 Djuric;Monza;36;6,08;6,67;9;2;
 Ekubam;Genoa;23;6,09;6,65;4;1;
-Beltran ;Fiorentina;30;6,12;6,65;6;1;
+Beltran ;Fiorentina;30;6,12;6,65;6;1;9
 Immobile;Lazio;28;5,91;6,59;7;1;188
 Milik;Juventus;24;6;6,46;4;1;
 Lauriente;Sassuolo;37;5,99;6,46;5;5;20
